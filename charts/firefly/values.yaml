@@ -521,4 +521,4 @@ ethconnect:
       annotations: {}
       subPath: ""
       size: 2Gi
-      storageClass: ""s
+      storageClass: ""
